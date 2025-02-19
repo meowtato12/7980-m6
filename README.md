@@ -1,1 +1,3 @@
-# 7980-m6
+npm install
+
+npm start
